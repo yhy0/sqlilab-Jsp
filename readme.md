@@ -14,7 +14,7 @@
 
 ### 1. sqlilabs文件夹 可以使用IDEA打开部署
 
-### 2. ROOT.war放在tomcat/webapps/ 下
+### 2. 将ROOT.war放在tomcat/webapps/ 下,启动tomcat
 
 ​	
 
