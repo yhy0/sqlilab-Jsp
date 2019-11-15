@@ -1,0 +1,15 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <!--<error-page>-->
+    <!--&lt;!&ndash; 指定当发生了什么异常跳转到该页面 &ndash;&gt;-->
+    <!--<error-code>500</error-code>-->
+    <!--&lt;!&ndash; 指定异常了，跳转的页面 &ndash;&gt;-->
+    <!--<location>/error.jsp</location>-->
+  <!--</error-page>-->
+</web-app>
+
