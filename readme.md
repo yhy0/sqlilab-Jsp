@@ -22,6 +22,3 @@
 
 SQL注入时  如果出现"Illegal mix of collations for operation 'UNION'" ，请检查数据库，表，字段排序规则是否一致。（我以为移植到另台服务器时，被这个问题给坑了，以为我的代码有问题╮(╯▽╰)╭）
 
-# 联系方式
-
-1356654790@qq.com
